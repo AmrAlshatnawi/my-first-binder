@@ -12,4 +12,4 @@ dependencies:
 - sunpy
 - hapi
 - pandas
-- hapiclient
+
