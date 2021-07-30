@@ -12,3 +12,5 @@ dependencies:
 - sunpy
 - hapi
 - pandas
+- hapiclient
+- hapiplot
