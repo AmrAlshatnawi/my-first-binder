@@ -1,0 +1,14 @@
+name: demo
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- ipykernel
+- pip
+- numpy
+- matplotlib
+- jupyterlab
+- sunpy
+- hapi
+- pandas
