@@ -10,6 +10,4 @@ dependencies:
 - matplotlib
 - jupyterlab
 - sunpy
-- hapi
-- pandas
 
